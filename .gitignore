@@ -1,5 +1,6 @@
 # AWS credentials file
 credentials
+.terraform.lock.hcl
 
 # Default Terrform .gitignore
 # Local .terraform directories
